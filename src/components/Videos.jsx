@@ -1,4 +1,4 @@
- import { Button, Heading, Stack, Text, VStack } from '@chakra-ui/react';
+import { Button, Heading, Stack, Text, VStack } from '@chakra-ui/react';
 import React, { useState } from 'react';
 
 const Videos = () => {
